@@ -13,7 +13,7 @@
 		355EE1E72A5D64FF0042DF9A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 355EE1E52A5D64FF0042DF9A /* Main.storyboard */; };
 		355EE1E92A5D65000042DF9A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 355EE1E82A5D65000042DF9A /* Assets.xcassets */; };
 		355EE1EC2A5D65000042DF9A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 355EE1EA2A5D65000042DF9A /* LaunchScreen.storyboard */; };
-		355EE1F42A5D65750042DF9A /* Sounds in Resources */ = {isa = PBXBuildFile; fileRef = 355EE1F32A5D65750042DF9A /* Sounds */; };
+		35CF721B2A60EC860093AC75 /* Sounds in Resources */ = {isa = PBXBuildFile; fileRef = 35CF721A2A60EC860093AC75 /* Sounds */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +25,7 @@
 		355EE1E82A5D65000042DF9A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		355EE1EB2A5D65000042DF9A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		355EE1ED2A5D65000042DF9A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		355EE1F32A5D65750042DF9A /* Sounds */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Sounds; path = "../../../../GitHub/cloned_Xylophone-iOS13/Xylophone/Sounds"; sourceTree = "<group>"; };
+		35CF721A2A60EC860093AC75 /* Sounds */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Sounds; path = ../../Sounds; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,7 +65,7 @@
 				355EE1E82A5D65000042DF9A /* Assets.xcassets */,
 				355EE1EA2A5D65000042DF9A /* LaunchScreen.storyboard */,
 				355EE1ED2A5D65000042DF9A /* Info.plist */,
-				355EE1F32A5D65750042DF9A /* Sounds */,
+				35CF721A2A60EC860093AC75 /* Sounds */,
 			);
 			path = "Xylophone Play";
 			sourceTree = "<group>";
@@ -130,7 +130,7 @@
 			files = (
 				355EE1EC2A5D65000042DF9A /* LaunchScreen.storyboard in Resources */,
 				355EE1E92A5D65000042DF9A /* Assets.xcassets in Resources */,
-				355EE1F42A5D65750042DF9A /* Sounds in Resources */,
+				35CF721B2A60EC860093AC75 /* Sounds in Resources */,
 				355EE1E72A5D64FF0042DF9A /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
