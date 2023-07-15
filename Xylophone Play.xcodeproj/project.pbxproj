@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		352905122A624F0700D3C1B7 /* guiterSounds in Resources */ = {isa = PBXBuildFile; fileRef = 352905112A624F0700D3C1B7 /* guiterSounds */; };
+		352905142A625A6200D3C1B7 /* fluteSounds in Resources */ = {isa = PBXBuildFile; fileRef = 352905132A625A6200D3C1B7 /* fluteSounds */; };
 		355EE1E02A5D64FF0042DF9A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 355EE1DF2A5D64FF0042DF9A /* AppDelegate.swift */; };
 		355EE1E22A5D64FF0042DF9A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 355EE1E12A5D64FF0042DF9A /* SceneDelegate.swift */; };
 		355EE1E42A5D64FF0042DF9A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 355EE1E32A5D64FF0042DF9A /* ViewController.swift */; };
@@ -17,6 +19,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		352905112A624F0700D3C1B7 /* guiterSounds */ = {isa = PBXFileReference; lastKnownFileType = folder; name = guiterSounds; path = ../../guiterSounds; sourceTree = "<group>"; };
+		352905132A625A6200D3C1B7 /* fluteSounds */ = {isa = PBXFileReference; lastKnownFileType = folder; name = fluteSounds; path = ../../fluteSounds; sourceTree = "<group>"; };
 		355EE1DC2A5D64FF0042DF9A /* Xylophone Play.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Xylophone Play.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		355EE1DF2A5D64FF0042DF9A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		355EE1E12A5D64FF0042DF9A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -65,6 +69,8 @@
 				355EE1E82A5D65000042DF9A /* Assets.xcassets */,
 				355EE1EA2A5D65000042DF9A /* LaunchScreen.storyboard */,
 				355EE1ED2A5D65000042DF9A /* Info.plist */,
+				352905132A625A6200D3C1B7 /* fluteSounds */,
+				352905112A624F0700D3C1B7 /* guiterSounds */,
 				35CF721A2A60EC860093AC75 /* Sounds */,
 			);
 			path = "Xylophone Play";
@@ -129,9 +135,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				355EE1EC2A5D65000042DF9A /* LaunchScreen.storyboard in Resources */,
+				352905122A624F0700D3C1B7 /* guiterSounds in Resources */,
 				355EE1E92A5D65000042DF9A /* Assets.xcassets in Resources */,
 				35CF721B2A60EC860093AC75 /* Sounds in Resources */,
 				355EE1E72A5D64FF0042DF9A /* Main.storyboard in Resources */,
+				352905142A625A6200D3C1B7 /* fluteSounds in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
